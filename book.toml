@@ -1,0 +1,6 @@
+[book]
+authors = ["Phalentin"]
+language = "en"
+multilingual = false
+src = "src"
+title = "APB Method Website"
