@@ -1,6 +1,6 @@
 [book]
-authors = ["Phalentin"]
+authors = ["JustEnoughAlgorithms"]
 language = "en"
 multilingual = false
 src = "src"
-title = "APB Method Website"
+title = "APB Method"
