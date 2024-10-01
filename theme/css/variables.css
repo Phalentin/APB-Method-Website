@@ -41,7 +41,8 @@
     --quote-bg: hsl(234, 21%, 18%);
     --quote-border: hsl(234, 21%, 23%);
 
-    --warning-border: #ff8e00;
+    --warning-fg: #bd4500;
+    --warning-bg: #331400;
 
     --table-border-color: hsl(200, 7%, 13%);
     --table-header-bg: hsl(200, 7%, 28%);
@@ -86,7 +87,8 @@
     --quote-bg: hsl(197, 37%, 96%);
     --quote-border: hsl(197, 37%, 91%);
 
-    --warning-border: #ff8e00;
+    --warning-fg: #ff640a;
+    --warning-bg: #ffdcc4;
 
     --table-border-color: hsl(0, 0%, 95%);
     --table-header-bg: hsl(0, 0%, 80%);

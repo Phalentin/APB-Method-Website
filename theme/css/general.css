@@ -109,7 +109,6 @@ h6:target::before {
 .content p { line-height: 1.45em; }
 .content ol { line-height: 1.45em; }
 .content ul { line-height: 1.45em; }
-.content a { text-decoration: none; }
 .content a:hover { text-decoration: underline; }
 .content img, .content video { max-width: 100%; }
 .content .header:link,
@@ -159,25 +158,12 @@ blockquote {
 
 .warning {
     margin: 20px;
-    padding: 0 20px;
-    border-inline-start: 2px solid var(--warning-border);
-}
-
-.warning:before {
-    position: absolute;
-    width: 3rem;
-    height: 3rem;
-    margin-inline-start: calc(-1.5rem - 21px);
-    content: "ⓘ";
-    text-align: center;
-    background-color: var(--bg);
-    color: var(--warning-border);
-    font-weight: bold;
-    font-size: 2rem;
-}
-
-blockquote .warning:before {
-    background-color: var(--quote-bg);
+    border-radius: 1em;
+    border: solid var(--warning-fg);
+    padding: 10px;
+    color: var(--warning-fg);
+    border-color: var(--warning-fg);
+    background-color: var(--warning-bg);
 }
 
 kbd {
