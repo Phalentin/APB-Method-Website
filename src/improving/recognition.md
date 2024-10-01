@@ -1,1 +1,1 @@
-# EO & LXS Recognition
+# EO & LXS

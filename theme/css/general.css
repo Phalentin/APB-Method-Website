@@ -157,10 +157,10 @@ blockquote {
 }
 
 .warning {
-    margin: 20px;
+    margin: 0px;
     border-radius: 1em;
     border: solid var(--warning-fg);
-    padding: 10px;
+    padding: 15px;
     color: var(--warning-fg);
     border-color: var(--warning-fg);
     background-color: var(--warning-bg);
