@@ -18,4 +18,4 @@ The NPB / APBig method was developed by V Sundararajan. The steps are:
 <hr>
 
 ## Image generation links
-[^npb]: <https://visualcube.api.cubing.net/?fmt=svg&pzl=4&size=250&fc=&r=y-30x-30&bg=t&fc=dddddyyddyyddooddddddddddddddddddbbdwbbdwbbdddddddddddddddddddddddddoooboooboood>
+[^npb]: <https://visualcube.api.cubing.net/?fmt=svg&pzl=4&size=250&fc=&r=y-30x-30&bg=t&fc=yrrrwyybyyyyyoooddddddddddddddddobbwwbbwwbbygbryddddddddddddddddrrggoooboooboooy>

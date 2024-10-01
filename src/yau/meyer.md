@@ -1,6 +1,6 @@
 # Meyer
 <image class="right" alt="Symbolic image of the Meyer method" src="/images/yau/meyer/meyer.svg">[^meyer]<br>
-The Meyer method was originally developped for the Roux method, but since both Roux and APB (usually) start with a 1x2x3 block, this method works just as well with APB. A video explanation by Kian Mansour is below but please note this small difference: At 8:38 minutes, Kian specifically creates the edge belonging into DR. With APB you either just make any edge, or the one belonging into DB for easier look-ahead into 3x3 stage. Alternatively, you can read the text explanation below.
+The Meyer method was originally developped for the Roux method, but since both Roux and APB (usually) start with a 1x2x3 block, this method works just as well with APB. A video explanation by Kian Mansour is below but note this small difference: At 8:38 minutes, Kian specifically creates the edge belonging into DR. With APB you either just make any edge, or the one belonging into DB for easier look-ahead into 3x3 stage. Alternatively, you can read the text explanation below.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-L86AodUUzE?si=H9xOX638yAuLJDF_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 1. **Solve two centers:** Solve two centers that are opposite of each other. They will be your L/R colors eventually, so if you're x2y color neutral, you can pick any color except for white and yellow.
@@ -15,4 +15,4 @@ The Meyer method was originally developped for the Roux method, but since both R
 <hr>
 
 ## Image generation links
-[^meyer]: <https://visualcube.api.cubing.net/?fmt=svg&pzl=4&size=250&r=y-15x20&bg=t&fc=ddddddddddddddddddddddddddddddddddddbdddbdddbdddwdddwdddwdddwddddddd>
+[^meyer]: <https://visualcube.api.cubing.net/?fmt=svg&pzl=4&size=250&r=y-15x20&bg=t&fc=ddddddddddddddddddddddddddddddddyybrbyyrbyyrbwggwgrrwbbrwbbbwywrgywo>
