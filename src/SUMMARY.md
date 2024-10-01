@@ -22,11 +22,12 @@
     - [EOPair](variations/eopair.md)
     - [Pair in dFB instead of dBR](variations/dfb.md)
     - [APB-CDRLL](variations/cdrll.md)
+-->
 ---
 # 4x4+
 - [Yau Derivatives](yau.md)
     - [NPB / APBig](yau/npb.md)
     - [Meyer](yau/meyer.md)
+    - [YauPB](yau/yaupb.md)
 - [Reduction](reduction.md)
--->
 ---
