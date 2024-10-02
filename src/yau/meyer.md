@@ -1,5 +1,5 @@
 # Meyer
-<image class="right" alt="Symbolic image of the Meyer method" src="/images/yau/meyer/meyer.svg">[^meyer]<br>
+<image class="right" alt="Symbolic image of the Meyer method" src="/images/yau/meyer/meyer.png">[^meyer]<br>
 The Meyer method was originally developed for the Roux method, but since both Roux and APB (usually) start with a 1x2x3 block, this method works just as well with APB. A video explanation by Kian Mansour is below but note this small difference: At 8:38 minutes, Kian specifically creates the edge belonging into DR. With APB you either just make any edge, or the one belonging into DB for easier look-ahead into 3x3 stage. Alternatively, you can read the text explanation below.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-L86AodUUzE?si=H9xOX638yAuLJDF_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -14,5 +14,5 @@ The Meyer method was originally developed for the Roux method, but since both Ro
 
 <hr>
 
-## Image generation links
-[^meyer]: <https://visualcube.api.cubing.net/?fmt=svg&pzl=4&size=250&r=y-15x20&bg=t&fc=ddddddddddddddddddddddddddddddddyybrbyyrbyyrbwggwgrrwbbrwbbbwywrgywo>
+## Image generation parameters
+[^meyer]: { "width": 250, "height": 250, "cubeSize": 4, "viewportRotations": [ [ 1, "-30" ], [ 0, "34" ], [ 2, 0 ] ], "facelets": [ "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "u", "f", "u", "r", "f", "u", "u", "f", "f", "u", "u", "b", "f", "r", "r", "r", "d", "u", "d", "b", "d", "f", "f", "l", "d", "f", "f", "b", "d", "f", "d", "d", "l", "f", "u", "r", "l", "l", "l", "l", "l", "l", "l", "l", "l", "l", "l", "l", "b", "b", "b", "b", "b", "b", "b", "b", "b", "b", "b", "b", "b", "b", "b", "b" ] }

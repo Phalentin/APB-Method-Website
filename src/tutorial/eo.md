@@ -1,5 +1,5 @@
 # EO
-<image class="right" alt="Rubik's Cube with the EO step completed" src="/images/tutorial/eo/eo.svg">[^eo]<br>
+<image class="right" alt="Rubik's Cube with the EO step completed" src="/images/tutorial/eo/eo.png">[^eo]<br>
 
 Edge orientation is the hardest concept in APB. In the EO step of APB, you orient the remaining six edges, that haven't been solved yet. If you already know what EO is, you can skip to [How to solve EO in APB](#how-to-solve-eo-in-apb).
 ## What is edge orientation?
@@ -26,5 +26,5 @@ In APB, the edges are oriented algorithmically. These algorithms can be found in
 
 <hr>
 
-## Image generation links
-[^eo]: <https://visualcube.api.cubing.net/?fmt=svg&size=250&fc=dsdsysdsddsdsrrdsrdsdbbsbbd&r=y30x-30&bg=t>
+## Image generation parameters
+[^eo]: { "width": 250, "height": 250, "facelets": [ "n", "o", "n", "o", "u", "o", "n", "o", "n", "n", "o", "n", "o", "r", "r", "n", "o", "r", "n", "o", "n", "f", "f", "o", "f", "f", "n", "d", "d", "d", "d", "d", "d", "d", "d", "d", "l", "l", "l", "l", "l", "l", "l", "l", "l", "b", "b", "b", "b", "b", "b", "b", "b", "b" ], "viewportRotations": [ [ 1, 30 ], [ 0, -34 ], [ 2, 0 ] ] }

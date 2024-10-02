@@ -1,5 +1,5 @@
 # Introduction to APB
-<image class="right" alt="Symbolic image of the APB method" src="/images/apb-icon.svg">[^apb-icon]
+<image class="right" alt='Symbolic image of the APB method' src="/images/apb-icon.png">[^apb-icon]
 
 APB was originally developed by James Straughon aka. Athefre. It stands for Athefre's Pair and Block.
 ## Steps
@@ -14,5 +14,5 @@ This resolves to a hefty number of 620 algorithms. This number can be reduced to
 
 <hr>
 
-## Image generation links
-[^apb-icon]: <https://visualcube.api.cubing.net/?fmt=svg&size=250&fc=dsdsybdsbrrdrrrdsrdswbbwbbd&bg=t>
+## Image generation parameters
+[^apb-icon]: { "width": 250, "height": 250, "facelets": [ "n", "o", "n", "o", "u", "f", "n", "o", "f", "r", "r", "n", "r", "r", "r", "n", "o", "r", "n", "o", "d", "f", "f", "d", "f", "f", "n", "d", "d", "n", "d", "d", "o", "d", "d", "d", "n", "o", "n", "l", "l", "l", "l", "l", "l", "n", "o", "n", "b", "b", "b", "b", "b", "b" ] }
