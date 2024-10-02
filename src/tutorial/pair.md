@@ -3,7 +3,7 @@
 
 The second step of APB is the creation and insertion of the back-right F2L pair. 
 ## Creating the pair 
-Creating a pair is always possible using only `R` and `U` moves and no rotations (altough sometimes there are better solutions with `F` moves). If you are unsure about how to solve a case, try putting the edge into the U layer and the corner in DFR or DFB so that the white sticker is on the right side. Then you can put the edge into UF or UB and then join it with the corner using R moves. <br>
+Creating a pair is always possible using only `R` and `U` moves and no rotations (although sometimes there are better solutions with `F` moves). If you are unsure about how to solve a case, try putting the edge into the U layer and the corner in DFR or DFB so that the white sticker is on the right side. Then you can put the edge into UF or UB and then join it with the corner using R moves. <br>
 ## Inserting the pair
 If the pair is oriented, you can just insert it using R and U moves. If it is misoriented however, you should put the pair on the right and insert it with `f R' f'`.
 ## Algorithmic solutions

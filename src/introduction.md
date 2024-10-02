@@ -1,7 +1,7 @@
 # Introduction to APB
 <image class="right" alt="Symbolic image of the APB method" src="/images/apb-icon.svg">[^apb-icon]
 
-APB was originally deveolped by James Straughon aka. Athefre. It stands for Athefre's Pair and Block.
+APB was originally developed by James Straughon aka. Athefre. It stands for Athefre's Pair and Block.
 ## Steps
 Standard APB consists of 5 steps:
 1. [**2x2x3**](tutorial/223.md): Solve a 2x2x3 block in the bottom-left. This is usually accomplished by building a Roux-style 1x2x3 block and then extending it by solving the DF and DB edges.

@@ -6,7 +6,7 @@ YauPB is the most similar to normal Yau. The steps are the following:
 2. **Solve three cross edges:** Solve three cross edges exactly as you would in Yau. Place the cross on the left face at the bottom.
 3. **Solve remaining centers:** Solve the four remaining centers in their correct order.
 4. **Solve one edge:** Put the cross on the bottom face in the back and solve any edge with equator slice moves. Insert that edge into DF.
-5. **Solve other edges:** Solve the other edges using your method of choice. For 4x4, I'd recomment 3-2-3 edge pairing while for all bigger cubes you should use Freeslice.
+5. **Solve other edges:** Solve the other edges using your method of choice. For 4x4, I'd recommend 3-2-3 edge pairing while for all bigger cubes you should use Freeslice.
 6. **Solve 2x2x3:** Hold the cross at the bottom face on the left and solve the two left F2L pairs in order to complete the 2x2x3.
 7. **Solve the dBR pair:** Solve the dBR pair.
 8. **OLL parity:** Check during EO recognition if you have OLL parity and correct it immediately.

@@ -10,7 +10,7 @@
 ### Edge Orientation
 - [**Edge Orientation**](https://docs.google.com/spreadsheets/d/1Hs9ikHz-4cfbqBfqvuvE8X9sjCb4Jtm482ZvsFQA2rY/) by Athefre
 
-Note that for Standard APB you only need to learn the algs in the *dBR Solved EO* tab.
+Note that for Standard APB you only need to learn the algorithms in the *dBR Solved EO* tab.
 ### LXS
 - [**LXS**](https://docs.google.com/spreadsheets/d/1P2DB0SyA1BrezYJ_g7RJ7_l32Ilxq7lLtr53zlG_TUU/) by Athefre
 ### ZBLL
