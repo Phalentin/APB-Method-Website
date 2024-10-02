@@ -1,7 +1,7 @@
 # EO
 <image class="right" alt="Rubik's Cube with the EO step completed" src="/images/tutorial/eo/eo.svg">[^eo]<br>
 
-Edge orientation is the hardest concept in APB. If you already know what EO is, you can skip to [How to solve EO in APB](#how-to-solve-eo-in-apb). 
+Edge orientation is the hardest concept in APB. In the EO step of APB, you orient the remaining six edges, that haven't been solved yet. If you already know what EO is, you can skip to [How to solve EO in APB](#how-to-solve-eo-in-apb).
 ## What is edge orientation?
 [zzmethod.com](https://www.zzmethod.com/) already made a great video explaining edge orientation in the context of ZZ, if you only want to know about EO in general, you only have to watch until 7:42 minutes. Alternatively you can read the written tutorial below.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fxwVmTI5nGM?si=-Q63PMa-NS9tqTja&amp;start=13" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

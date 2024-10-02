@@ -13,6 +13,7 @@
 Note that for Standard APB you only need to learn the algorithms in the *dBR Solved EO* tab.
 ### LXS
 - [**LXS**](https://docs.google.com/spreadsheets/d/1P2DB0SyA1BrezYJ_g7RJ7_l32Ilxq7lLtr53zlG_TUU/) by Athefre
+- [**LXS patterns for learning**](https://docs.google.com/spreadsheets/d/1ACKQXpMK0b8RWGoN9wMDbnF-W-S4mMdeJH5IcjeEyf8/) by Liam Highducheck
 ### ZBLL
 - [**SpeedCubeDB ZBLL:**](https://speedcubedb.com/a/ZBLL) big selection of algorithms, but the top algorithm is often not the best one
 - [**Teri's ZBLL:**](https://docs.google.com/spreadsheets/d/1BiQZkCZvTDRlW6Y6jTBHXPPjZF9k55x8YJgXXs5nhCs/) really optimised algorithms, but getting the right fingertricks can be tricky. These algorithms require a lot of practice and might be riskier than you'd like.
