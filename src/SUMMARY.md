@@ -17,10 +17,10 @@
     - [ZBLL tips](improving/zbll.md)
     - [Ideal Splits](improving/splits.md)-->
 - [Other Resources](resources.md)
-<!---
 - [Variations](variations.md)
     - [EOPair](variations/eopair.md)
-    - [Pair in dFB instead of dBR](variations/dfb.md)
+    - [dFR pair](variations/dfr.md)
+<!---
     - [APB-CDRLL](variations/cdrll.md)
 -->
 ---

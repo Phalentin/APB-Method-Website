@@ -2,4 +2,4 @@
 
 <hr>
 
-## Image generation links
+## Image generation parameters
