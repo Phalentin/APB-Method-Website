@@ -1,5 +1,5 @@
 # ZBLL
-<image class="right" alt="Rubik's Cube with the EO step completed" src="/images/tutorial/zbll/zbll.png">[^zbll]<br>
+<image class="right" alt="Rubik's Cube with the EO step completed" src="/images/tutorial/zbll/zbll.png">
 
 ZBLL is the last and simultaneously the hardest step of APB. This set contains 493 algorithms. Good sources for ZBLL algorithms are:
 - [**SpeedCubeDB ZBLL:**](https://speedcubedb.com/a/ZBLL) big selection of algorithms, but the top algorithm is often not the best one
@@ -16,7 +16,3 @@ I'd recommend learning the ZBLL subsets in an order similar to this:
 Until you've learned all of the ZBLLs, you should OCLL + PLL to solve the last layer. These algorithms can be found on SpeedCubeDB:
 - [**OCLL (select "OCLL")**](https://speedcubedb.com/a/3x3/OLL)
 - [**PLL**](https://speedcubedb.com/a/3x3/PLL)
-<hr>
-
-## Image generation parameters
-[^zbll]: { "width": 250, "height": 250, "viewportRotations": [ [ 1, 30 ], [ 0, -34 ], [ 2, 0 ] ] }

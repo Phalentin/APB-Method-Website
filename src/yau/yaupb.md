@@ -1,5 +1,5 @@
 # YauPB
-<image class="right" alt="Symbolic image of the YauPB method" src="/images/yau/yaupb/yaupb.png">[^yaupb]<br>
+<image class="right" alt="Symbolic image of the YauPB method" src="/images/yau/yaupb/yaupb.png">
 
 YauPB is the most similar to normal Yau. The steps are the following:
 1. **Solve two centers:** Solve two centers that are opposite of each other. They will be your U/D colors eventually, so you should probably pick white and yellow, unless you are fully color neutral. Put the centers at U & D.
@@ -11,8 +11,3 @@ YauPB is the most similar to normal Yau. The steps are the following:
 7. **Solve the dBR pair:** Solve the dBR pair.
 8. **OLL parity:** Check during EO recognition if you have OLL parity and correct it immediately.
 9. **Solve the cube:** Solve the cube normally and do PLL parity at the end / before ZBLL if required
-
-<hr>
-
-## Image generation parameters
-[^yaupb]: { "width": 250, "height": 250, "cubeSize": 4, "viewportRotations": [ [ 1, "-30" ], [ 0, "34" ], [ 2, 0 ] ], "facelets": [ "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "n", "f", "l", "r", "d", "r", "f", "f", "b", "l", "f", "f", "l", "u", "f", "f", "f", "b", "d", "d", "d", "d", "d", "d", "b", "d", "d", "d", "b", "l", "d", "d", "d", "l", "f", "f", "u", "b", "l", "l", "u", "r", "l", "l", "f", "d", "l", "l", "r", "b", "b", "b", "b", "b", "b", "b", "b", "b", "b", "b", "b", "b", "b", "b", "b" ] }

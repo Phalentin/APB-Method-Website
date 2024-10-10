@@ -1,5 +1,6 @@
 # NPB / APBig
-<image class="right" alt="Symbolic image of the NPB / APBig method" src="/images/yau/npb/npb.png">[^npb]<br>
+<image class="right" alt="Symbolic image of the NPB / APBig method" src="/images/yau/npb/npb.png">
+
 You can watch this video or skip to the text explanation below.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0a_jMXGXAWw?si=myIcQgoR4Bij2Bgb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -14,8 +15,3 @@ The NPB / APBig method was developed by V Sundararajan. The steps are:
 8. **Solve the dBR pair:** Do a `y'` rotation and continue the solve with the dBR pair.
 9. **OLL parity:** Check during EO recognition if you have OLL parity and correct it immediately.
 10. **Solve the cube:** Solve the cube normally and do PLL parity at the end / before ZBLL if required.
-
-<hr>
-
-## Image generation parameters
-[^npb]: { "width": 250, "height": 250, "cubeSize": 4, "viewportRotations": [ [ 1, "-30" ], [ 0, -34 ], [ 2, 0 ] ], "facelets": [ "u", "r", "r", "r", "d", "u", "u", "f", "u", "u", "u", "u", "u", "l", "l", "l", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "l", "f", "f", "d", "d", "f", "f", "d", "d", "f", "f", "u", "b", "f", "r", "u", "d", "d", "d", "d", "d", "d", "d", "d", "d", "d", "d", "d", "d", "d", "d", "d", "r", "r", "b", "b", "l", "l", "l", "f", "l", "l", "l", "f", "l", "l", "l", "u", "b", "b", "b", "b", "b", "b", "b", "b", "b", "b", "b", "b", "b", "b", "b", "b" ] }
