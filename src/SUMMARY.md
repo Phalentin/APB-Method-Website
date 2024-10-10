@@ -10,13 +10,13 @@
     - [EO](tutorial/eo.md)
     - [LXS](tutorial/lxs.md)
     - [ZBLL](tutorial/zbll.md)
+- [Get Better with APB](improve.md)
+    - [Inspection](improve/inspection.md)
 - [Other Resources](resources.md)
 - [Variations](variations.md)
     - [EOPair](variations/eopair.md)
     - [dFR pair](variations/dfr.md)
-<!---
-    - [APB-CDRLL](variations/cdrll.md)
--->
+
 ---
 # 4x4+
 - [Yau Derivatives](yau.md)
